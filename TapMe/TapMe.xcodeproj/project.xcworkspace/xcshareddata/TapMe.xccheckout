@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E8B87E78-0421-4208-88D1-0A72D2321FDC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TapMe</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>38334B2A-FA0A-4551-93E5-FC6D684429AB</key>
+		<string>https://github.com/Abbyjeet/TapMe.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TapMe/TapMe.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>38334B2A-FA0A-4551-93E5-FC6D684429AB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Abbyjeet/TapMe.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>38334B2A-FA0A-4551-93E5-FC6D684429AB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>38334B2A-FA0A-4551-93E5-FC6D684429AB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TapMe</string>
+		</dict>
+	</array>
+</dict>
+</plist>
